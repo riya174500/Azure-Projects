@@ -1,10 +1,16 @@
-# ☁️ Azure Data Fundamentals (DP-900) Project | Data Technician Bootcamp
+# ☁️ Azure Data Services & Cloud Analytics
+
+*Exploring cloud computing concepts, Azure data services, SQL analytics, data ingestion, and modern analytical workloads using Microsoft Azure and Microsoft Fabric.*
+
+---
 
 ## 🚀 Overview
 
-This project showcases the cloud and data skills developed during my **Azure Data Fundamentals (DP-900)** training as part of the Data Technician Bootcamp. Through hands-on labs and practical exercises, I explored how data is stored, processed, analysed, and visualised across a range of Microsoft Azure services.
+This repository showcases the Azure and cloud computing skills developed through hands-on labs, practical exercises, and real-world business scenarios.
 
-The project covered core cloud computing concepts, relational and non-relational data solutions, large-scale analytics, and real-time data processing. I gained experience working with **Azure SQL Database**, **Azure Storage Accounts**, **Azure Cosmos DB**, and **Microsoft Fabric Lakehouse**, while learning how modern organisations manage and analyse data in the cloud. 
+Working across multiple Microsoft Azure services, I explored how data is ingested, stored, processed, and analysed in cloud environments. The project covered relational databases, non-relational databases, cloud storage solutions, data pipelines, real-time analytics, and Microsoft Fabric's end-to-end analytics capabilities.
+
+The work provided practical experience with modern cloud data platforms and strengthened my understanding of how organisations leverage Azure services to support scalable, secure, and data-driven solutions.
 
 ---
 
@@ -14,42 +20,34 @@ The project covered core cloud computing concepts, relational and non-relational
 
 ✅ Public, Private & Hybrid Cloud Models  
 ✅ IaaS, PaaS & SaaS  
-✅ Azure Architecture & Core Services  
-✅ Scalability, Availability & Reliability  
-✅ Security, Governance & Compliance  
-✅ Cloud Cost & Resource Management
+✅ Scalability & High Availability  
+✅ Security & Governance Concepts  
+✅ Cost Management & Resource Planning  
+✅ Azure Regions & Availability Zones
 
-### 🗄️ Relational Data in Azure
+### 🗄️ Relational Data
 
 ✅ Azure SQL Database  
-✅ Structured Data Management  
-✅ Database Tables & Relationships  
-✅ SQL Query Development  
-✅ Data Analysis & Reporting
+✅ Structured Data Storage  
+✅ Database Relationships  
+✅ Data Modelling Concepts  
+✅ SQL Query Development
 
-### 📦 Non-Relational Data in Azure
+### 📦 Non-Relational Data
 
 ✅ Azure Storage Accounts  
 ✅ Blob Storage  
 ✅ Azure Cosmos DB  
-✅ JSON Document Storage  
+✅ JSON Documents  
 ✅ Semi-Structured Data Management
 
 ### 📊 Analytics & Data Engineering
 
 ✅ Microsoft Fabric Lakehouse  
 ✅ Real-Time Analytics  
-✅ Data Warehousing Concepts  
-✅ Data Pipelines & Dataflows  
-✅ End-to-End Data Analytics
-
-### 🔄 Data Ingestion
-
 ✅ Eventstreams  
-✅ Batch Processing  
-✅ File-Based Data Imports  
-✅ Data Pipelines  
-✅ Real-Time Data Streaming
+✅ Data Warehousing Concepts  
+✅ Data Pipelines & Dataflows
 
 ---
 
@@ -57,81 +55,80 @@ The project covered core cloud computing concepts, relational and non-relational
 
 ### 🗄️ Azure SQL Database
 
-- Created and queried relational databases in Azure
-- Managed structured datasets using tables and relationships
-- Applied SQL techniques to analyse business and sales data
-- Generated insights through filtering, aggregation, and reporting
+- Created and explored relational databases within Azure
+- Queried and analysed structured datasets using SQL
+- Applied filtering, sorting, grouping, and aggregation techniques
+- Generated insights from business and sales-focused data
 
 ### 📦 Azure Storage & Cosmos DB
 
-- Explored cloud-based storage solutions for different data types
-- Worked with Blob Storage to manage unstructured and semi-structured data
-- Used Azure Cosmos DB to understand NoSQL database concepts
-- Compared relational and non-relational approaches for business requirements
+- Investigated cloud storage solutions for structured and unstructured data
+- Worked with Azure Blob Storage for scalable data storage
+- Explored NoSQL concepts using Azure Cosmos DB
+- Compared relational and non-relational database solutions
 
 ### 📊 Microsoft Fabric Lakehouse
 
-- Explored Lakehouse architecture for modern analytics workloads
-- Connected and analysed data from multiple sources
-- Investigated how organisations store and analyse large-scale datasets
-- Developed an understanding of unified analytics within Microsoft Fabric
+- Explored Lakehouse architecture and modern analytics workflows
+- Worked with analytical datasets using Microsoft Fabric
+- Investigated how data lakes and warehouses can be unified within a single platform
+- Supported reporting and analysis through scalable cloud-based solutions
 
 ### ⚡ Data Ingestion & Streaming
 
-- Ingested data using Eventstreams and other Azure ingestion methods
-- Explored batch and real-time data processing workflows
-- Understood how business data flows through cloud data platforms
-- Investigated real-time analytics and monitoring scenarios
+- Explored data ingestion using Eventstreams
+- Worked with file-based data imports and cloud-native ingestion methods
+- Investigated real-time and batch processing workflows
+- Developed an understanding of modern data engineering concepts
 
 ---
 
 ## 🔍 SQL Skills Demonstrated
 
-The project included practical SQL exercises performed against relational datasets to retrieve, organise, and analyse data.
-
-### SQL Querying
+### Query Development
 
 ✅ `SELECT`  
 ✅ `WHERE`  
 ✅ `ORDER BY`  
 ✅ `GROUP BY`  
 ✅ `HAVING`  
-✅ Aggregate Functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
+✅ `COUNT()`  
+✅ `SUM()`  
+✅ `AVG()`
 
-### Table Relationships & Analysis
+### Database Relationships
 
 ✅ INNER JOIN  
 ✅ LEFT JOIN  
-✅ Database Relationships  
-✅ Primary & Foreign Keys  
+✅ Primary Keys  
+✅ Foreign Keys  
 ✅ Relational Data Modelling
 
-### Business Analysis
+### Data Analysis
 
 ✅ Data Filtering  
 ✅ Data Aggregation  
 ✅ Sales Analysis  
 ✅ Trend Identification  
-✅ KPI Reporting  
-✅ Business Insight Generation
+✅ Business Reporting
+
+---
+
+## 📖 Cloud Analytics & Data Storytelling
+
+A key focus of this work was understanding how data moves across a cloud ecosystem, from ingestion and storage through to analysis and reporting. By combining Azure SQL Database, Azure Storage, Cosmos DB, Eventstreams, and Microsoft Fabric, I gained practical experience in creating cloud-based data solutions capable of supporting business intelligence and decision-making.
 
 ---
 
 ## 🎯 Key Deliverables
 
+✅ Cloud Architecture Understanding  
 ✅ Azure SQL Database Analysis  
-✅ Azure Storage & Cosmos DB Exploration  
+✅ Azure Cosmos DB Exploration  
+✅ Azure Storage Management  
+✅ Data Ingestion & Eventstreams  
 ✅ Microsoft Fabric Lakehouse Analytics  
-✅ Data Ingestion & Eventstream Integration  
-✅ SQL Query Development  
-✅ Real-Time Analytics Exploration  
-✅ Cloud Architecture Understanding
-
----
-
-## 📖 Data Storytelling & Analytics
-
-A key focus of this project was understanding how data is collected, stored, processed, and analysed across cloud-based platforms. By combining Azure data services, SQL analysis, data ingestion techniques, and analytical workloads in Microsoft Fabric, I developed a practical understanding of how organisations use cloud technologies to generate actionable business insights.
+✅ SQL-Based Reporting & Analysis
 
 ---
 
@@ -142,7 +139,7 @@ A key focus of this project was understanding how data is collected, stored, pro
 - Azure Storage Account
 - Azure Blob Storage
 - Azure Cosmos DB
-- Microsoft Fabric Lakehouse
+- Microsoft Fabric
 - Eventstreams
 - SQL
 - Power BI
@@ -152,8 +149,8 @@ A key focus of this project was understanding how data is collected, stored, pro
 
 ## 🏆 Skills Showcase
 
-`Azure` • `DP-900` • `Cloud Computing` • `Azure SQL Database` • `Azure Storage Account` • `Azure Cosmos DB` • `Microsoft Fabric` • `Lakehouse` • `Eventstreams` • `SQL` • `Data Ingestion` • `Real-Time Analytics` • `Data Warehousing` • `Data Engineering` • `Business Intelligence`
+`Azure` • `Cloud Computing` • `Azure SQL Database` • `Azure Storage` • `Azure Cosmos DB` • `Microsoft Fabric` • `Lakehouse` • `Eventstreams` • `SQL` • `Data Ingestion` • `Data Engineering` • `Data Warehousing` • `Real-Time Analytics` • `Business Intelligence`
 
 ---
 
-⭐ This project demonstrates my understanding of cloud computing concepts and Microsoft Azure data services, including relational and non-relational data storage, SQL analysis, data ingestion, real-time analytics, and modern analytical workloads using Microsoft Fabric.
+⭐ This repository demonstrates my understanding of cloud computing and Azure data services, including data storage, ingestion, analytics, and reporting across both relational and non-relational environments.
